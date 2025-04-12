@@ -51,22 +51,15 @@ This dataset is widely used for binary classification tasks in medical ML resear
 
 ---
 
-### Libraries used
+## 📚 Libraries Used
 
--pandas — for data manipulation and preprocessing
+- **[pandas](https://pandas.pydata.org/)** — for data manipulation and preprocessing
+- **[numpy](https://numpy.org/)** — for numerical operations and array handling  
+- **[scipy](https://docs.scipy.org/doc/scipy/)** — used for statistical tests and data science utilities  
+- **[matplotlib](https://matplotlib.org/)** — for plotting graphs and visualizations  
+- **[seaborn](https://seaborn.pydata.org/)** — enhanced statistical data visualization  
+- **[tabulate](https://pypi.org/project/tabulate/)** — formats summary tables for clean console output  
+- **[scikit-learn](https://scikit-learn.org/stable/)** — ML models, preprocessing, metrics, and feature selection  
+- **[tensorflow](https://www.tensorflow.org/api_docs/python)** — for building and training deep learning models (MLP)  
+- **[shap](https://shap.readthedocs.io/en/latest/)** — for explainable AI and feature importance visualization
 
--numpy — for numerical operations and array handling
-
--scipy — used for statistical tests and data science utilities
-
--matplotlib — for plotting graphs and visualizations
-
--seaborn — enhanced statistical data visualization
-
--tabulate — formats summary tables for clean console output
-
--scikit-learn — ML models, preprocessing, metrics, and feature selection
-
--tensorflow — for building and training deep learning models (MLP)
-
--shap — for explainable AI and feature importance visualization
