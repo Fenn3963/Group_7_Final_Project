@@ -39,7 +39,7 @@ We compare classification models and feature selection strategies, balancing per
 
 ## Dataset
 
-This project uses the [Breast Cancer Diagnostic dataset on Kaggle](https://www.kaggle.com/datasets/imtkaggleteam/breast-cancer)
+This project uses the dataset from [Breast Cancer Diagnostic dataset on Kaggle](https://www.kaggle.com/datasets/imtkaggleteam/breast-cancer)
 
 - **Target**: `diagnosis` — M (Malignant) or B (Benign)
 - **Features**:  
