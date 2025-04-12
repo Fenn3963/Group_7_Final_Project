@@ -46,7 +46,6 @@ This project uses the dataset from [Breast Cancer Diagnostic dataset on Kaggle](
   - Radius, Texture, Perimeter, Area  
   - Smoothness, Compactness, Concavity, Concave Points  
   - Symmetry, Fractal Dimension  
-  - Each feature is recorded as mean, standard error, and worst value
 
 This dataset is widely used for binary classification tasks in medical ML research.
 
