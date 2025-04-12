@@ -11,6 +11,20 @@ We compare classification models and feature selection strategies, balancing per
 
 ---
 
+## 📚 Libraries Used
+
+- **[pandas](https://pandas.pydata.org/)** — for data manipulation and preprocessing
+- **[numpy](https://numpy.org/)** — for numerical operations and array handling  
+- **[scipy](https://docs.scipy.org/doc/scipy/)** — used for statistical tests and data science utilities  
+- **[matplotlib](https://matplotlib.org/)** — for plotting graphs and visualizations  
+- **[seaborn](https://seaborn.pydata.org/)** — enhanced statistical data visualization  
+- **[tabulate](https://pypi.org/project/tabulate/)** — formats summary tables for clean console output  
+- **[scikit-learn](https://scikit-learn.org/stable/)** — ML models, preprocessing, metrics, and feature selection  
+- **[tensorflow](https://www.tensorflow.org/api_docs/python)** — for building and training deep learning models (MLP)  
+- **[shap](https://shap.readthedocs.io/en/latest/)** — for explainable AI and feature importance visualization
+
+---
+
 ## Objectives
 
 - Build a machine learning pipeline for breast cancer classification.
@@ -42,24 +56,10 @@ We compare classification models and feature selection strategies, balancing per
 This project uses the dataset from [Breast Cancer Diagnostic dataset on Kaggle](https://www.kaggle.com/datasets/imtkaggleteam/breast-cancer)
 
 - **Target**: Diagnosis — M (Malignant) or B (Benign)
-- **Features**:  
-  - Radius, Texture, Perimeter, Area  
-  - Smoothness, Compactness, Concavity, Concave Points  
-  - Symmetry, Fractal Dimension  
+- **Description**:  
+  - 569 instances  
+  - 31 variables  
 
-This dataset is widely used for binary classification tasks in medical ML research.
 
----
 
-## 📚 Libraries Used
-
-- **[pandas](https://pandas.pydata.org/)** — for data manipulation and preprocessing
-- **[numpy](https://numpy.org/)** — for numerical operations and array handling  
-- **[scipy](https://docs.scipy.org/doc/scipy/)** — used for statistical tests and data science utilities  
-- **[matplotlib](https://matplotlib.org/)** — for plotting graphs and visualizations  
-- **[seaborn](https://seaborn.pydata.org/)** — enhanced statistical data visualization  
-- **[tabulate](https://pypi.org/project/tabulate/)** — formats summary tables for clean console output  
-- **[scikit-learn](https://scikit-learn.org/stable/)** — ML models, preprocessing, metrics, and feature selection  
-- **[tensorflow](https://www.tensorflow.org/api_docs/python)** — for building and training deep learning models (MLP)  
-- **[shap](https://shap.readthedocs.io/en/latest/)** — for explainable AI and feature importance visualization
 
