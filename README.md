@@ -41,7 +41,7 @@ We compare classification models and feature selection strategies, balancing per
 
 This project uses the dataset from [Breast Cancer Diagnostic dataset on Kaggle](https://www.kaggle.com/datasets/imtkaggleteam/breast-cancer)
 
-- **Target**: `diagnosis` — M (Malignant) or B (Benign)
+- **Target**: Diagnosis — M (Malignant) or B (Benign)
 - **Features**:  
   - Radius, Texture, Perimeter, Area  
   - Smoothness, Compactness, Concavity, Concave Points  
